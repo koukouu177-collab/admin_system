@@ -1,0 +1,8 @@
+# ADMIN-SYSTEM v1.0
+
+# Bibliothèques Python
+psutil>=5.9.6
+colorama>=0.4.6
+tqdm>=4.66.1
+requests>=2.31.0
+paramiko>=3.3.1
